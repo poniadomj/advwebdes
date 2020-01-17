@@ -1,0 +1,43 @@
+body{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	
+	
+}
+
+button {
+  background-color:green;
+  border: none;
+  color: white;
+  padding: 20px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+	cursor: pointer;
+	
+}
+.title{
+	color:red;
+}
+
+div{
+  width:500px;
+}
+div.cont{
+
+}
+img.c1{
+   
+    
+  
+}
+img.c2{
+ 
+  
+}
+h1.win{
+  color: green;
+}
+h1.lose{
+  color: red;
+}
